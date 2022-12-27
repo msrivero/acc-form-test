@@ -1,0 +1,14 @@
+.vw-form-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.vw-form {
+  width: 40%;
+  padding: 30px 40px;
+  border: 1px solid rgba(217, 217, 217, 0.33);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
